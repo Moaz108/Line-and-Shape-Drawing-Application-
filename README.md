@@ -26,7 +26,7 @@ Prerequisites
 
 - Visual Studio (or any C# compatible IDE)
 
-#Steps
+# Steps
 
 - Clone the repository:
 
