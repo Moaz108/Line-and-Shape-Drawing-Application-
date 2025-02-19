@@ -25,16 +25,6 @@ Prerequisites
 - .NET Framework
 
 - Visual Studio (or any C# compatible IDE)
-
-# Steps
-
-- Clone the repository:
-
-- git clone https://github.com/yourusername/your-repo.git
-
-- Open the solution file (.sln) in Visual Studio.
-
-- Build and run the project.
   
 # File Structure
 
